@@ -21,7 +21,7 @@ module.exports = {
       {
         test: /\.js$/, 
         loaders: ['babel'],
-        include: __dirname + '/src'
+        include: `${__dirname}/src`
       }, 
       {
         test: /\.css$/,

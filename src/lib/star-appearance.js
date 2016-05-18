@@ -1,0 +1,1 @@
+const starAppearance = module.exports = {};
