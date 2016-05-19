@@ -1,0 +1,8 @@
+.subunit {
+  fill: none;
+  stroke: #333;
+  stroke-linejoin: round;
+}
+.background {
+  fill: black;
+}
