@@ -11,7 +11,7 @@ const PATHS = {
   entry:      `${__dirname}/entry.js`,
   src:        `${__dirname}/src`,
   src__html:  `${__dirname}/src/*.html`,
-  src__data:  `${__dirname}/public/data/*`,
+  src__data:  [`${__dirname}/public/data/*.csv`, `${__dirname}/public/data/*.json`],
   dest:       `${__dirname}/build`
 };
 
