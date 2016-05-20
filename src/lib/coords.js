@@ -1,0 +1,1 @@
+const coords = module.exports = {};
