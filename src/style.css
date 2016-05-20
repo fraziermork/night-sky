@@ -1,8 +1,13 @@
 .subunit {
   fill: none;
-  stroke: #333;
+  stroke: white;
   stroke-linejoin: round;
 }
 .background {
   fill: black;
+}
+
+.star {
+  fill: #aaa;
+  /*stroke: #777;*/
 }

@@ -14,6 +14,7 @@ Stretch Goals:
 * Allow users to scan through the sky over time
 * Show the location of the sun, moon, ISS, planets, asteroids, NEOs, etc. 
 * Allow users to see real images of that region -- need an API for this
+* Allow users to see which country the star is over
 
 ## Initial research:
 
